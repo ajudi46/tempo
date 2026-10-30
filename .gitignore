@@ -1,0 +1,17 @@
+# Gradle / build output
+.gradle/
+build/
+.kotlin/
+
+# Machine-specific
+local.properties
+.DS_Store
+
+# IDE
+.idea/
+*.iml
+
+# Signing material: never commit
+*.jks
+*.keystore
+keystore.properties

@@ -1,0 +1,24 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Rounded play triangle -->
+    <path
+        android:fillColor="#D0BCFF"
+        android:pathData="M31,38 L31,70 L57,54 Z"
+        android:strokeColor="#D0BCFF"
+        android:strokeLineJoin="round"
+        android:strokeWidth="6" />
+    <!-- Two sound waves -->
+    <path
+        android:pathData="M66,44 A12,12 0 0 1 66,64"
+        android:strokeColor="#B69DF8"
+        android:strokeLineCap="round"
+        android:strokeWidth="5" />
+    <path
+        android:pathData="M74,36 A22,22 0 0 1 74,72"
+        android:strokeColor="#8F74E0"
+        android:strokeLineCap="round"
+        android:strokeWidth="5" />
+</vector>
